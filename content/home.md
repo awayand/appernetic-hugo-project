@@ -4,4 +4,4 @@ title = "home"
 draft = true
 
 +++
-
+We live on this earth like you
